@@ -1,0 +1,568 @@
+{"id": "frame-case-0", "text": "hello", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 8, "claude-fable-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "frame-case-1", "text": " hello", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "frame-case-2", "text": "  hello", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "frame-case-3", "text": "hello ", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 8, "claude-fable-5": 9, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "frame-case-4", "text": "hello\t", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 8, "claude-fable-5": 9, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "frame-case-5", "text": "hello\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 8, "claude-fable-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "frame-case-6", "text": "hello ", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "frame-case-7", "text": "hello\n\t", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 8, "claude-fable-5": 10, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "frame-case-8", "text": "hello\r", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 8, "claude-fable-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "frame-case-12", "text": "\u0001", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 6, "claude-sonnet-5": 6, "claude-opus-5": 6, "claude-fable-5": 6, "claude-fable-5-1": 8, "claude-opus-5-5": 8, "claude-sonnet-5-5": 8}}
+{"id": "frame-case-13", "text": "'hello", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "frame-case-14", "text": "1234", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 8, "claude-fable-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "frame-case-15", "text": "漢", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 8, "claude-fable-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "frame-case-16", "text": "Aℂ", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "frame-case-17", "text": "Aϒ", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "frame-case-18", "text": "Aⅅ", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "frame-case-19", "text": "Aϴ", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "frame-case-20", "text": "Aẞ", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "frame-case-21", "text": "Aİ", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 10, "claude-fable-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "frame-case-22", "text": "Aͅ", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "frame-case-23", "text": "ĆX", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 10, "claude-fable-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "tail-14", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-15", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-16", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-17", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-22", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-23", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-24", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-25", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-29", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-30", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-31", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-32", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-33", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-38", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-64", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-extra-39", "text": "a \t\n", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 7, "claude-fable-5": 9, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-extra-40", "text": "a\na\n", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "tail-extra-44", "text": "a\n\u0001", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-extra-45", "text": "a\u0001\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "tail-extra-46", "text": "a\t\u0001", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 8, "claude-fable-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "tail-extra-47", "text": "a\u0001\t", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 7, "claude-fable-5": 8, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-ouou", "text": ".ヲououヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-verver", "text": ".ヲververヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-⟨bow⟩fév", "text": ".févヲ.", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "piece-⟨bow⟩król⟨eow⟩", "text": "król", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-⟨bow⟩község⟨eow⟩", "text": "község", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-⟨bow⟩író⟨eow⟩", "text": "író", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-⟨shift⟩⟨bow⟩további⟨eow⟩", "text": "További", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-⟨shift⟩⟨bow⟩år⟨eow⟩", "text": "År", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-⟨shift⟩⟨bow⟩события⟨eow⟩", "text": "События", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-ああ", "text": ".ヲああヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-がが", "text": ".ヲががヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-きき", "text": ".ヲききヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-なな", "text": ".ヲななヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-もも", "text": ".ヲももヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-やや", "text": ".ヲややヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-ององ", "text": ".ヲององヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-⟨bow⟩househ", "text": ".househヲ.", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "piece-⟨bow⟩－⟨eow⟩", "text": "a － a", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-⟨bow⟩�", "text": "�", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-⟨bow⟩�⟨eow⟩", "text": "a � a", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-ええ", "text": ".ヲええヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-�⟨eow⟩", "text": "1� a", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-��", "text": "a��a", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-⟨bow⟩throug", "text": ".througヲ.", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "piece-���", "text": "a���a", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-����", "text": "a����a", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-������", "text": "a������a", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-⟨shift⟩⟨bow⟩população⟨eow⟩", "text": "População", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-しし", "text": ".ヲししヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-ււ", "text": ".ヲււヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-らら", "text": ".ヲららヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-をを", "text": ".ヲををヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-ググ", "text": ".ヲググヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-うう", "text": ".ヲううヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-ババ", "text": ".ヲババヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-ัั", "text": ".ヲััヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-ูู", "text": ".ヲููヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-étét", "text": ".ヲététヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-ивив", "text": ".ヲививヲ.", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 15, "claude-sonnet-5": 15, "claude-opus-5": 15, "claude-fable-5": 15, "claude-fable-5-1": 17, "claude-opus-5-5": 17, "claude-sonnet-5-5": 17}}
+{"id": "piece-························", "text": "1························1", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-································", "text": "1································1", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-././", "text": "1././1", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-････", "text": "a････a", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-e290", "text": "a␀a", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 10, "claude-fable-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0", "text": "क्", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mark-1", "text": "क्ष", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-2", "text": "क् ष", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-3", "text": "्", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mark-4", "text": "h́b", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "mark-5", "text": "h̊b", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 10, "claude-fable-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-6", "text": "hͅb", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-7", "text": "hͣb", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-8", "text": "ܒ݁ܒ", "counts": {"claude-opus-4-7": 21, "claude-opus-4-8": 16, "claude-opus-5-5": 18, "claude-sonnet-5-5": 18}}
+{"id": "mark-9", "text": "ܒ݂ ܒ", "counts": {"claude-opus-4-7": 22, "claude-opus-4-8": 17, "claude-opus-5-5": 19, "claude-sonnet-5-5": 19}}
+{"id": "mark-10", "text": "ܒ݂ܶܒ", "counts": {"claude-opus-4-7": 23, "claude-opus-4-8": 18, "claude-opus-5-5": 20, "claude-sonnet-5-5": 20}}
+{"id": "mark-11", "text": "ܒ݀ܒ", "counts": {"claude-opus-4-7": 21, "claude-opus-4-8": 16, "claude-opus-5-5": 18, "claude-sonnet-5-5": 18}}
+{"id": "mark-12", "text": "ܒ݊ܶܒ", "counts": {"claude-opus-4-7": 23, "claude-opus-4-8": 18, "claude-sonnet-5": 18, "claude-opus-5": 18, "claude-fable-5": 18, "claude-fable-5-1": 20, "claude-opus-5-5": 20, "claude-sonnet-5-5": 20}}
+{"id": "mark-13", "text": "ܒܰܒ", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "mark-14", "text": "ܒ̱", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-15", "text": "ܒ̱ܒ", "counts": {"claude-opus-4-7": 21, "claude-opus-4-8": 16, "claude-opus-5-5": 18, "claude-sonnet-5-5": 18}}
+{"id": "mark-16", "text": "ܒ̱ ܒ", "counts": {"claude-opus-4-7": 22, "claude-opus-4-8": 17, "claude-opus-5-5": 19, "claude-sonnet-5-5": 19}}
+{"id": "mark-17", "text": "ܒ̱ܶܒ", "counts": {"claude-opus-4-7": 23, "claude-opus-4-8": 18, "claude-opus-5-5": 20, "claude-sonnet-5-5": 20}}
+{"id": "mark-18", "text": "ܒ̣ܒ", "counts": {"claude-opus-4-7": 21, "claude-opus-4-8": 16, "claude-opus-5-5": 18, "claude-sonnet-5-5": 18}}
+{"id": "mark-19", "text": "ܒ̣ܶܒ", "counts": {"claude-opus-4-7": 23, "claude-opus-4-8": 18, "claude-sonnet-5": 18, "claude-opus-5": 18, "claude-fable-5": 18, "claude-fable-5-1": 20, "claude-opus-5-5": 20, "claude-sonnet-5-5": 20}}
+{"id": "mark-20", "text": "ܒͣܒ", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "mark-21", "text": "ͣ", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-22", "text": "ͣͣ", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-23", "text": "x ͣ x", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-24", "text": "x ͣ5 x", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "mark-25", "text": "x ͣ", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-26", "text": "x ͣx x", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-27", "text": "x ͣabc x", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-28", "text": "!ͣa", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-29", "text": "ͣꝛ", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-30", "text": "x ͣก x", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-31", "text": "᯦ꝛ", "counts": {"claude-opus-4-7": 20, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "mark-32", "text": "̂", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mark-33", "text": "̂̂", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 10, "claude-fable-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-34", "text": "ͣ̂", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-35", "text": "̂ͣ", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-36", "text": "!̂", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "mark-37", "text": "!ͣ", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-38", "text": "'ً", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "mark-39", "text": "a 'ً x", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-40", "text": "1 'ً 1", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 13, "claude-sonnet-5": 13, "claude-opus-5": 13, "claude-fable-5": 13, "claude-fable-5-1": 15, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-41", "text": "a 'ͣ x", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "mark-42", "text": "a 'ܶ x", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "mark-43", "text": "a '́ x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-44", "text": "  ☀️夏", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-45", "text": "🏻️ 5", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-46", "text": "夏️ 5", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-47", "text": "☀️ 5", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "contraction-0", "text": "x'll", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "contraction-1", "text": "we'll", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "contraction-2", "text": "a'll b", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "contraction-3", "text": "a 'll b", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "contraction-4", "text": "'ll", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "contraction-5", "text": "1'll", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "contraction-6", "text": "a  'll b", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "contraction-7", "text": "A'll", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "contraction-8", "text": ".'ll.", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "contraction-9", "text": "}'ll", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "contraction-10", "text": "a)'ll b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "contraction-11", "text": "x'llo", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "contraction-12", "text": "x'lls", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "contraction-13", "text": "x'S", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "contraction-14", "text": "x'LL", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "contraction-15", "text": "x'ji", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "contraction-16", "text": "x'ka", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "contraction-17", "text": "x'ing", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "contraction-18", "text": "a ll b", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "contraction-19", "text": "ll", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "piece-0", "text": "△", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-opus-5": 7, "claude-fable-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-1", "text": "▽", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "piece-2", "text": "◇", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "piece-3", "text": "║", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-4", "text": "a║b", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-5", "text": "╔", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "piece-6", "text": "a McN b", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "piece-7", "text": "a McQ b", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "piece-8", "text": "a MdN b", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "piece-9", "text": "a neither b", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "piece-10", "text": "a zither b", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "piece-11", "text": "a wather b", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "piece-12", "text": "'./", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "piece-13", "text": "a './b", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "piece-14", "text": "'.", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-opus-5": 8, "claude-fable-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "piece-15", "text": "./", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "piece-16", "text": "a КИ b", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "piece-17", "text": "a КЭ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "piece-18", "text": "a ЛИ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "piece-19", "text": "a МИ b", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "piece-20", "text": "a СИ b", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "piece-21", "text": "a ПИ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "symbol-0", "text": "1🐫1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "symbol-1", "text": "1 🐫1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "symbol-2", "text": "1🐫 1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "symbol-3", "text": "1 🐫 1", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "symbol-4", "text": "1😀1", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "symbol-5", "text": "1 😀1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "symbol-6", "text": "1 😀 1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "symbol-7", "text": "1←1", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "symbol-8", "text": "1 ←1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "symbol-9", "text": "1← 1", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "symbol-10", "text": "1 ← 1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "symbol-11", "text": "️", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "symbol-12", "text": "⚖️", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "symbol-13", "text": "⚖︎", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "symbol-14", "text": "a️b", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "case-A-0", "text": "Aϒbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-0", "text": "Ωϒbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-1", "text": "Aϓbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-1", "text": "Ωϓbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-2", "text": "Aϔbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-2", "text": "Ωϔbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-sonnet-5": 13, "claude-opus-5": 13, "claude-fable-5": 13, "claude-fable-5-1": 15, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-3", "text": "Aℂbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-3", "text": "Ωℂbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-4", "text": "Aℇbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-4", "text": "Ωℇbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-5", "text": "Aℋbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-5", "text": "Ωℋbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-6", "text": "Aℌbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-6", "text": "Ωℌbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-7", "text": "Aℍbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-7", "text": "Ωℍbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-8", "text": "Aℐbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-8", "text": "Ωℐbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-9", "text": "Aℑbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-9", "text": "Ωℑbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-sonnet-5": 13, "claude-opus-5": 13, "claude-fable-5": 13, "claude-fable-5-1": 15, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-10", "text": "Aℒbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-10", "text": "Ωℒbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-11", "text": "Aℕbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-11", "text": "Ωℕbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-12", "text": "Aℙbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-12", "text": "Ωℙbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-13", "text": "Aℚbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-13", "text": "Ωℚbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-14", "text": "Aℛbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-14", "text": "Ωℛbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-15", "text": "Aℜbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-15", "text": "Ωℜbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-16", "text": "Aℝbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-16", "text": "Ωℝbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-sonnet-5": 13, "claude-opus-5": 13, "claude-fable-5": 13, "claude-fable-5-1": 15, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-17", "text": "Aℤbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-17", "text": "Ωℤbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-18", "text": "Aℨbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-18", "text": "Ωℨbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-19", "text": "Aℬbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-19", "text": "Ωℬbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-20", "text": "Aℭbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-20", "text": "Ωℭbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-21", "text": "Aℰbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-21", "text": "Ωℰbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-22", "text": "Aℱbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-22", "text": "Ωℱbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-23", "text": "Aℳbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-23", "text": "Ωℳbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-sonnet-5": 13, "claude-opus-5": 13, "claude-fable-5": 13, "claude-fable-5-1": 15, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-24", "text": "Aℾbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-24", "text": "Ωℾbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-25", "text": "Aℿbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-25", "text": "Ωℿbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-26", "text": "Aⅅbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-Ω-26", "text": "Ωⅅbc", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "case-A-27", "text": "Aϴbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-27", "text": "Ωϴbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "case-A-28", "text": "Aİbc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "case-Ω-28", "text": "Ωİbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-A-29", "text": "Aẞbc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "case-Ω-29", "text": "Ωẞbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5": 13, "claude-fable-5-1": 15, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0x345-between-letters", "text": "xͅx", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x345-between-words", "text": "a ͅ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x345-between-digits", "text": "1ͅ1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x345-after-punctuation", "text": "!ͅabc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x345-before-contraction", "text": "ͅ's", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x363-between-letters", "text": "xͣx", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x363-between-words", "text": "a ͣ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x363-between-digits", "text": "1ͣ1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x363-after-punctuation", "text": "!ͣabc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x363-before-contraction", "text": "ͣ's", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x740-between-letters", "text": "x݀x", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x740-between-words", "text": "a ݀ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x740-between-digits", "text": "1݀1", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x740-after-punctuation", "text": "!݀abc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x740-before-contraction", "text": "݀'s", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x741-between-letters", "text": "x݁x", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 10, "claude-fable-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x741-between-words", "text": "a ݁ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x741-between-digits", "text": "1݁1", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x741-after-punctuation", "text": "!݁abc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x741-before-contraction", "text": "݁'s", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x742-between-letters", "text": "x݂x", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x742-between-words", "text": "a ݂ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x742-between-digits", "text": "1݂1", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 10, "claude-fable-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x742-after-punctuation", "text": "!݂abc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x742-before-contraction", "text": "݂'s", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x74a-between-letters", "text": "x݊x", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x74a-between-words", "text": "a ݊ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x74a-between-digits", "text": "1݊1", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x74a-after-punctuation", "text": "!݊abc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x74a-before-contraction", "text": "݊'s", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 10, "claude-fable-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x900-between-letters", "text": "xऀx", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x900-between-words", "text": "a ऀ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x900-between-digits", "text": "1ऀ1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x900-after-punctuation", "text": "!ऀabc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x900-before-contraction", "text": "ऀ's", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xcf3-between-letters", "text": "xೳx", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0xcf3-between-words", "text": "a ೳ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xcf3-between-digits", "text": "1ೳ1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xcf3-after-punctuation", "text": "!ೳabc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xcf3-before-contraction", "text": "ೳ's", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xe3a-between-letters", "text": "xฺx", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0xe3a-between-words", "text": "a ฺ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xe3a-between-digits", "text": "1ฺ1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xe3a-after-punctuation", "text": "!ฺabc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xe3a-before-contraction", "text": "ฺ's", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xf3e-between-letters", "text": "x༾x", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0xf3e-between-words", "text": "a ༾ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xf3e-between-digits", "text": "1༾1", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0xf3e-after-punctuation", "text": "!༾abc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xf3e-before-contraction", "text": "༾'s", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0xf3f-between-letters", "text": "x༿x", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-sonnet-5": 10, "claude-opus-5": 10, "claude-fable-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0xf3f-between-words", "text": "a ༿ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xf3f-between-digits", "text": "1༿1", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0xf3f-after-punctuation", "text": "!༿abc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xf3f-before-contraction", "text": "༿'s", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0xf71-between-letters", "text": "xཱx", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0xf71-between-words", "text": "a ཱ b", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xf71-between-digits", "text": "1ཱ1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xf71-after-punctuation", "text": "!ཱabc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xf71-before-contraction", "text": "ཱ's", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1039-between-letters", "text": "x္x", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "mark-0x1039-between-words", "text": "a ္ b", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1039-between-digits", "text": "1္1", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "mark-0x1039-after-punctuation", "text": "!္abc", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "mark-0x1039-before-contraction", "text": "္'s", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "mark-0x1715-between-letters", "text": "x᜕x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1715-between-words", "text": "a ᜕ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0x1715-between-digits", "text": "1᜕1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1715-after-punctuation", "text": "!᜕abc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x1715-before-contraction", "text": "᜕'s", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1a60-between-letters", "text": "x᩠x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1a60-between-words", "text": "a ᩠ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-sonnet-5": 13, "claude-opus-5": 13, "claude-fable-5": 13, "claude-fable-5-1": 15, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0x1a60-between-digits", "text": "1᩠1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1a60-after-punctuation", "text": "!᩠abc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x1a60-before-contraction", "text": "᩠'s", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1b44-between-letters", "text": "x᭄x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1b44-between-words", "text": "a ᭄ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0x1b44-between-digits", "text": "1᭄1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1b44-after-punctuation", "text": "!᭄abc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-sonnet-5": 12, "claude-opus-5": 12, "claude-fable-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x1b44-before-contraction", "text": "᭄'s", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1bf2-between-letters", "text": "x᯲x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1bf2-between-words", "text": "a ᯲ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0x1bf2-between-digits", "text": "1᯲1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1bf2-after-punctuation", "text": "!᯲abc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x1bf2-before-contraction", "text": "᯲'s", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1bf3-between-letters", "text": "x᯳x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1bf3-between-words", "text": "a ᯳ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0x1bf3-between-digits", "text": "1᯳1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1bf3-after-punctuation", "text": "!᯳abc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x1bf3-before-contraction", "text": "᯳'s", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xa953-between-letters", "text": "x꥓x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xa953-between-words", "text": "a ꥓ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0xa953-between-digits", "text": "1꥓1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xa953-after-punctuation", "text": "!꥓abc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xa953-before-contraction", "text": "꥓'s", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xa9c0-between-letters", "text": "x꧀x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xa9c0-between-words", "text": "a ꧀ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0xa9c0-between-digits", "text": "1꧀1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xa9c0-after-punctuation", "text": "!꧀abc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xa9c0-before-contraction", "text": "꧀'s", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-sonnet-5": 11, "claude-opus-5": 11, "claude-fable-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xaabf-between-letters", "text": "x꪿x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xaabf-between-words", "text": "a ꪿ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0xaabf-between-digits", "text": "1꪿1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xaabf-after-punctuation", "text": "!꪿abc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xaabf-before-contraction", "text": "꪿'s", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xabed-between-letters", "text": "x꯭x", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xabed-between-words", "text": "a ꯭ b", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-sonnet-5": 13, "claude-opus-5": 13, "claude-fable-5": 13, "claude-fable-5-1": 15, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0xabed-between-digits", "text": "1꯭1", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0xabed-after-punctuation", "text": "!꯭abc", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0xabed-before-contraction", "text": "꯭'s", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x10a3f-between-letters", "text": "x𐨿x", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x10a3f-between-words", "text": "a 𐨿 b", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "mark-0x10a3f-between-digits", "text": "1𐨿1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x10a3f-after-punctuation", "text": "!𐨿abc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-sonnet-5": 13, "claude-opus-5": 13, "claude-fable-5": 13, "claude-fable-5-1": 15, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0x10a3f-before-contraction", "text": "𐨿's", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mark-0x1e944-between-letters", "text": "x𞥄x", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x1e944-between-words", "text": "a 𞥄 b", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "mark-0x1e944-between-digits", "text": "1𞥄1", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "mark-0x1e944-after-punctuation", "text": "!𞥄abc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 13, "claude-opus-5-5": 15, "claude-sonnet-5-5": 15}}
+{"id": "mark-0x1e944-before-contraction", "text": "𞥄's", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "replacement-1", "text": "a�a", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-sonnet-5": 9, "claude-opus-5": 9, "claude-fable-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "replacement-8", "text": "a��������a", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "replacement-17", "text": "a�����������������a", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "replacement-24", "text": "a������������������������a", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "replacement-32", "text": "a��������������������������������a", "counts": {"claude-opus-4-7": 19, "claude-opus-4-8": 14, "claude-opus-5-5": 16, "claude-sonnet-5-5": 16}}
+{"id": "newline-1", "text": "a\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-2", "text": "a\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-3", "text": "a\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-4", "text": "a\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-5", "text": "a\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-6", "text": "a\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-7", "text": "a\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-8", "text": "a\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-9", "text": "a\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-10", "text": "a\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-11", "text": "a\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-12", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-13", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-18", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-19", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-20", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-21", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-26", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-27", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-28", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-34", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-35", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-36", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-37", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-39", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-40", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-47", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-48", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-62", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 9, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-63", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-65", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-95", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-96", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 9, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-127", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-128", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 10, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "newline-129", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-1-57344-1", "text": "a\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-1-13-1", "text": "a\n\r", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-1-1-2", "text": "a\n\u0001\t", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-14-1-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-14-57344-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-14-13-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-14-1-2", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\t", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-15-1-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-15-57344-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-15-13-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-15-1-2", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\t", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-16-1-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-16-57344-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-16-13-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-16-1-2", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\t", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-17-1-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-17-57344-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-17-13-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-17-1-2", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\t", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-22-1-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-22-57344-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-22-13-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-22-1-2", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\t", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-24-1-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-24-57344-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-24-13-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-24-1-2", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\t", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-30-1-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-30-57344-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-30-13-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r", "counts": {"claude-opus-4-7": 12, "claude-opus-4-8": 7, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-30-1-2", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\t", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-32-1-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-32-57344-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-32-13-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r", "counts": {"claude-opus-4-7": 13, "claude-opus-4-8": 8, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-32-1-2", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\t", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 8, "claude-fable-5-1": 10, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "exposed-newline-64-1-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "exposed-newline-64-57344-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "exposed-newline-64-13-1", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r", "counts": {"claude-opus-4-7": 14, "claude-opus-4-8": 9, "claude-opus-5": 7, "claude-fable-5-1": 9, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "exposed-newline-64-1-2", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\t", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 9, "claude-fable-5-1": 11, "claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "sharp-s--", "text": "ẞ", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "sharp-s--bc", "text": "ẞbc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "sharp-s--s", "text": "ẞs", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "sharp-s--A", "text": "ẞA", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "sharp-s-A-s", "text": "Aẞs", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "sharp-s-A-A", "text": "AẞA", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "sharp-s-a-", "text": "aẞ", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "sharp-s-a-bc", "text": "aẞbc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 11, "claude-opus-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "sharp-s-a-s", "text": "aẞs", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "sharp-s-a-A", "text": "aẞA", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 10, "claude-opus-5": 10, "claude-fable-5-1": 12, "claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "sharp-s-Ω-", "text": "Ωẞ", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "sharp-s-Ω-s", "text": "Ωẞs", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "sharp-s-Ω-A", "text": "ΩẞA", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 12, "claude-opus-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "sharp-s-1-", "text": "1ẞ", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "sharp-s-1-bc", "text": "1ẞbc", "counts": {"claude-opus-4-7": 18, "claude-opus-4-8": 12, "claude-opus-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "sharp-s-1-s", "text": "1ẞs", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "sharp-s-1-A", "text": "1ẞA", "counts": {"claude-opus-4-7": 17, "claude-opus-4-8": 11, "claude-opus-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "sharp-s- -", "text": " ẞ", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 11, "claude-opus-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "sharp-s- -bc", "text": " ẞbc", "counts": {"claude-opus-4-7": 16, "claude-opus-4-8": 12, "claude-opus-5": 12, "claude-fable-5-1": 14, "claude-opus-5-5": 14, "claude-sonnet-5-5": 14}}
+{"id": "sharp-s- -s", "text": " ẞs", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 11, "claude-opus-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "sharp-s- -A", "text": " ẞA", "counts": {"claude-opus-4-7": 15, "claude-opus-4-8": 11, "claude-opus-5": 11, "claude-fable-5-1": 13, "claude-opus-5-5": 13, "claude-sonnet-5-5": 13}}
+{"id": "mixed-tail-13-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-13-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-13-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-13-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-13-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-14-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-14-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-14-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-14-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-14-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-15-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-15-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-15-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-15-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-15-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-16-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-16-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-16-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-16-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-16-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-21-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-21-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-21-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-21-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-21-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-22-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-22-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-22-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-22-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-22-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-23-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-23-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-23-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-23-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-23-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-24-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-24-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-24-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-24-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-24-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-29-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-29-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-29-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-29-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-29-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-30-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-30-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-30-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-30-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-30-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 7, "claude-sonnet-5": 7, "claude-fable-5": 7, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-31-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-31-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-31-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-31-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-31-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-32-01-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-32-01-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-32-01-0a-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 8, "claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "mixed-tail-32-0d-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "mixed-tail-32-0d-0a-0a", "text": "a\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n", "counts": {"claude-opus-4-8": 8, "claude-sonnet-5": 8, "claude-fable-5": 8, "claude-opus-5": 7, "claude-opus-5-5": 9, "claude-sonnet-5-5": 9}}
+{"id": "new-frame-0-0", "text": "\thello", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-0-1", "text": "\thello \t\n\r\u000b\f", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-0-2", "text": "\thello ", "counts": {"claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "new-frame-0-3", "text": "\thello\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "new-frame-1-0", "text": "\nhello", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-1-1", "text": "\nhello \t\n\r\u000b\f", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-1-2", "text": "\nhello ", "counts": {"claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "new-frame-1-3", "text": "\nhello\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "new-frame-2-0", "text": "\rhello", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-2-1", "text": "\rhello \t\n\r\u000b\f", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-2-2", "text": "\rhello ", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-2-3", "text": "\rhello\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-3-0", "text": "\u000bhello", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-3-1", "text": "\u000bhello \t\n\r\u000b\f", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-3-2", "text": "\u000bhello ", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-3-3", "text": "\u000bhello\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-4-0", "text": "\fhello", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-4-1", "text": "\fhello \t\n\r\u000b\f", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-4-2", "text": "\fhello ", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-4-3", "text": "\fhello\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-5-0", "text": "\u0001hello", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-5-1", "text": "\u0001hello \t\n\r\u000b\f", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-5-2", "text": "\u0001hello ", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-5-3", "text": "\u0001hello\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-6-0", "text": "hello", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-6-1", "text": "hello \t\n\r\u000b\f", "counts": {"claude-opus-5-5": 10, "claude-sonnet-5-5": 10}}
+{"id": "new-frame-6-2", "text": "hello ", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-6-3", "text": "hello\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-7-0", "text": " hello", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-7-1", "text": " hello \t\n\r\u000b\f", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-7-2", "text": " hello ", "counts": {"claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "new-frame-7-3", "text": " hello\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "new-frame-8-0", "text": "  \u0001 hello", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-8-1", "text": "  \u0001 hello \t\n\r\u000b\f", "counts": {"claude-opus-5-5": 11, "claude-sonnet-5-5": 11}}
+{"id": "new-frame-8-2", "text": "  \u0001 hello ", "counts": {"claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}
+{"id": "new-frame-8-3", "text": "  \u0001 hello\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0001\n", "counts": {"claude-opus-5-5": 12, "claude-sonnet-5-5": 12}}

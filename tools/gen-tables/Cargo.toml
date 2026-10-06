@@ -1,0 +1,20 @@
+[package]
+name = "gen-tables"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+publish = false
+license = "MIT"
+
+[lints]
+workspace = true
+
+[dependencies]
+anyhow.workspace = true
+rustc-hash.workspace = true
+ruzstd.workspace = true
+serde_json.workspace = true
+unicode-general-category.workspace = true
+unicode-normalization.workspace = true
+# The compressor is only needed for regeneration, never by the CLI.
+zstd = { version = "=0.13.3", default-features = false }
