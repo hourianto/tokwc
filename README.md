@@ -11,7 +11,7 @@ Also counts lines, words, bytes, and characters, like `wc`.
 Requires Rust 1.88 or newer.
 
 ```sh
-cargo install --locked --git https://github.com/hourianto/tokwc
+cargo install --locked tokwc
 ```
 
 ## Use
